@@ -1,0 +1,11 @@
+.pf-c-select {
+    pointer-events: none;
+}
+
+.pf-c-select > * > * {
+    pointer-events: auto;
+}
+
+.no-clear-button > * > .pf-c-select__toggle-clear {
+	display: none;
+}

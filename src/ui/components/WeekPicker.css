@@ -1,0 +1,9 @@
+.week-picker-container {
+    background-color: var(--pf-global--BackgroundColor--100);
+    width: max-content;
+ }
+
+.week-picker {
+    z-index: 100;
+    background-color: var(--pf-global--BackgroundColor--200);
+}
